@@ -1,0 +1,423 @@
+{
+  "999123456": {
+    "user_id": 999123456,
+    "username": "teststudent",
+    "full_name": "Test Student",
+    "balance": 50,
+    "referral_count": 5,
+    "purchased_courses": [],
+    "earnings_enabled": false
+  },
+  "1852477596": {
+    "user_id": 1852477596,
+    "username": "ShariourAhmed",
+    "full_name": "{_Shariour Ahamed_}@",
+    "purchased_courses": [
+      "COURSE-1788413022",
+      "COURSE-1788520310",
+      "COURSE-1788721514"
+    ],
+    "purchased_ebooks": [],
+    "balance": 0,
+    "earnings_enabled": false,
+    "earnings_history": [
+      {
+        "amount": 20,
+        "coupon_code": "REFERRAL_BONUS",
+        "order_id": "ORD-1014",
+        "date": "2026-09-03 12:24:32.716591"
+      }
+    ],
+    "referral_count": 1,
+    "referred_users": [
+      {
+        "user_id": 7192726551,
+        "username": "bdwin00",
+        "full_name": "DK WIN BD",
+        "joined_date": "2026-09-03 12:22:24.589140",
+        "converted": true,
+        "conversion_date": "2026-09-03 12:24:32.716571",
+        "course_name": "Cps combo",
+        "order_id": "ORD-1014"
+      }
+    ],
+    "referred_by": null,
+    "referral_reward_claimed": false,
+    "joined_date": "2026-09-01 20:51:31.919793",
+    "access_links": {
+      "COURSE-1788413022": "https://t.me/+IIBZjHpRIak0N2Rl",
+      "COURSE-1788520310": "https://t.me/+ozhp6N0FBQc2YTY1"
+    },
+    "banned": false,
+    "ban_reason": ""
+  },
+  "8319458917": {
+    "user_id": 8319458917,
+    "username": "",
+    "full_name": "Infinity",
+    "purchased_courses": [
+      "COURSE-1788262366",
+      "COURSE-1788627583",
+      "COURSE-1788677888",
+      "COURSE-1788721400",
+      "COURSE-1788677960"
+    ],
+    "purchased_ebooks": [
+      "EB-1788781155",
+      "EB-1788781246",
+      "EB-1788800681"
+    ],
+    "balance": 70,
+    "earnings_enabled": true,
+    "earnings_history": [
+      {
+        "amount": 68,
+        "coupon_code": "RB15",
+        "order_id": "ORD-1005",
+        "date": "2026-08-31 23:43:48.126415"
+      },
+      {
+        "amount": 20,
+        "coupon_code": "REFERRAL_BONUS",
+        "order_id": "ORD-1010",
+        "date": "2026-09-02 00:52:34.839548"
+      },
+      {
+        "amount": 20,
+        "coupon_code": "REFERRAL_BONUS",
+        "order_id": "ORD-1049",
+        "date": "2026-09-07 17:08:35.141086"
+      },
+      {
+        "amount": 72,
+        "coupon_code": "IN10",
+        "order_id": "ORD-1061",
+        "date": "2026-09-07 22:10:48.994097"
+      }
+    ],
+    "referral_count": 2,
+    "referred_users": [
+      {
+        "user_id": 7135525721,
+        "username": "salman2ss",
+        "full_name": "Salman",
+        "joined_date": "2026-09-02 00:38:21.323094",
+        "converted": true,
+        "conversion_date": "2026-09-02 00:52:34.839508",
+        "course_name": "📙RMH Chemistry 1st paper | HSC-28",
+        "order_id": "ORD-1010"
+      },
+      {
+        "user_id": 8598895947,
+        "username": "",
+        "full_name": "❤️Sk Farhan❤️",
+        "joined_date": "2026-09-07 14:41:24.762964",
+        "converted": true,
+        "conversion_date": "2026-09-07 17:08:35.141065",
+        "course_name": "Shikho লক্ষ্য GPA-5 | SSC'27",
+        "order_id": "ORD-1049"
+      }
+    ],
+    "referred_by": null,
+    "joined_date": "2026-08-31 01:27:09.151189",
+    "access_links": {
+      "COURSE-1788158992": "https://t.me/+p8KOw5ezWIQyZDE1",
+      "COURSE-1788500104": "https://t.me/+wEu0KSMLc41hMDhl",
+      "COURSE-1788525785": "https://t.me/+IptV3iP7GyxmYTY9",
+      "COURSE-1788526475": "https://t.me/+cUUxN6VQBU05NWM1",
+      "COURSE-1788597788": "",
+      "COURSE-1788627583": {
+        "-1003900634402": "https://t.me/+KO0tZA_qsk01OTU1",
+        "-1003941636460": "https://t.me/+lnKU_9pqYBExNmU1",
+        "-1004461840064": "https://t.me/+qIpwREITVQwzOTk1"
+      },
+      "COURSE-1788678471": {
+        "-1004461840064": "https://t.me/+Trw43p1VQsE5ZTk1"
+      },
+      "COURSE-1788674903": {
+        "-1003900634402": "https://t.me/+eR4cKIcNkhs4M2U1"
+      },
+      "COURSE-1788676244": {
+        "-1003900634402": "https://t.me/+Lq4DVxC4zoAxZDM1"
+      },
+      "COURSE-1788677960": {
+        "-1004461840064": "https://t.me/+6ELL7mewQ2NhM2Rl"
+      },
+      "COURSE-1788677888": {
+        "-1004461840064": "https://t.me/+7NJ39kg1v9liZWM9"
+      },
+      "COURSE-1788677791": {
+        "-1004461840064": "https://t.me/+0R2N16OfwH5mMjZl"
+      },
+      "COURSE-1788677506": {
+        "-1003711018628": "https://t.me/+GuIfxsdbH_pkNTM1"
+      },
+      "COURSE-1788676499": {
+        "-1003900634402": "https://t.me/+-8Hlwule46U2ZjZl"
+      },
+      "COURSE-1788859123": {
+        "-1003900634402": "https://t.me/+uujSCmIPE1A3ZTM1",
+        "-1003941636460": "https://t.me/+IFrQQ-yi8VBmNTM1",
+        "-1004461840064": "https://t.me/+nNQ9xxydiTc5N2Y1"
+      }
+    },
+    "referral_reward_claimed": false,
+    "banned": false,
+    "ban_reason": ""
+  },
+  "8167080297": {
+    "user_id": 8167080297,
+    "username": "fjgjhijhb",
+    "full_name": "Up 1",
+    "purchased_courses": [],
+    "purchased_ebooks": [],
+    "balance": 0,
+    "earnings_enabled": false,
+    "earnings_history": [],
+    "referral_count": 0,
+    "referred_users": [],
+    "referred_by": null,
+    "joined_date": "2026-08-31 01:54:40.628272",
+    "referral_reward_claimed": false,
+    "banned": false,
+    "ban_reason": ""
+  },
+  "6353597308": {
+    "user_id": 6353597308,
+    "username": "Paulpiy",
+    "full_name": "Paul",
+    "purchased_courses": [
+      "COURSE-1788192212"
+    ],
+    "purchased_ebooks": [],
+    "balance": 0,
+    "earnings_enabled": false,
+    "earnings_history": [],
+    "referral_count": 0,
+    "referred_users": [],
+    "referred_by": null,
+    "joined_date": "2026-08-31 01:57:21.850835",
+    "referral_reward_claimed": false
+  },
+  "7610279126": {
+    "user_id": 7610279126,
+    "username": "StalkXd",
+    "full_name": "Errrrrrrrorrrrrr 404 ╰‿╯",
+    "purchased_courses": [
+      "COURSE-1788446854",
+      "COURSE-1788520310",
+      "COURSE-COPY-1788590610-1",
+      "COURSE-1788678471",
+      "COURSE-1788677888",
+      "COURSE-1788738571",
+      "COURSE-1788677791"
+    ],
+    "purchased_ebooks": [],
+    "balance": 0,
+    "earnings_enabled": true,
+    "earnings_history": [
+      {
+        "amount": 50,
+        "coupon_code": "BIOTEST50",
+        "order_id": "ORD-123",
+        "date": "2026-09-01 10:52:25.463144"
+      }
+    ],
+    "referral_count": 0,
+    "referred_users": [],
+    "referred_by": null,
+    "joined_date": "2026-08-31 08:25:26.791812",
+    "referral_reward_claimed": false,
+    "access_links": {
+      "COURSE-1788678471": {
+        "-1004461840064": "https://t.me/+M8er4bdYEi8yMTY1"
+      },
+      "COURSE-1788677888": {
+        "-1004461840064": "https://t.me/+zIPKqq4-Mp02ZDg9"
+      },
+      "COURSE-1788677791": {
+        "-1004461840064": "https://t.me/+xSYoW6530v8wYjhl"
+      }
+    },
+    "banned": false,
+    "ban_reason": ""
+  },
+  "8332445923": {
+    "user_id": 8332445923,
+    "username": "FSo0X",
+    "full_name": "꧁༒☬M̷O̷N̷S̷T̷E̷R̷☬༒꧂",
+    "purchased_courses": [
+      "COURSE-1788158992",
+      "COURSE-1788638088",
+      "COURSE-1788526475"
+    ],
+    "purchased_ebooks": [],
+    "balance": 0,
+    "earnings_enabled": true,
+    "earnings_history": [],
+    "referral_count": 0,
+    "referred_users": [],
+    "referred_by": null,
+    "joined_date": "2026-08-31 12:42:55.668310",
+    "access_links": {
+      "COURSE-1788158992": "https://t.me/+p8KOw5ezWIQyZDE1",
+      "COURSE-1788638088": {
+        "-1003711018628": "https://t.me/+A9mAFrW8TN1kNTZl",
+        "-1004420913843": "https://t.me/+KrbAj18K3rxiZDdl",
+        "-1004487467168": "https://t.me/+EB2REl--dI40NmQ1"
+      },
+      "COURSE-1788526475": {
+        "-1003900634402": "https://t.me/+KJyJRRV0T5hmY2U9"
+      }
+    },
+    "referral_reward_claimed": false,
+    "banned": false,
+    "ban_reason": ""
+  },
+  "7439866781": {
+    "user_id": 7439866781,
+    "username": "Richemanak",
+    "full_name": ")D Ri",
+    "purchased_courses": [
+      "COURSE-1788413022",
+      "COURSE-1788442349",
+      "COURSE-1788520310",
+      "COURSE-1788677888"
+    ],
+    "purchased_ebooks": [],
+    "balance": 0,
+    "earnings_enabled": false,
+    "earnings_history": [],
+    "referral_count": 0,
+    "referred_users": [],
+    "referred_by": null,
+    "joined_date": "2026-09-01 12:57:48.609888",
+    "referral_reward_claimed": false,
+    "access_links": {
+      "COURSE-1788413022": "https://t.me/+IIBZjHpRIak0N2Rl",
+      "COURSE-1788442349": "https://t.me/+wyOsv-Hq4Ls3Nzhl",
+      "COURSE-1788520310": "https://t.me/+dBrNf3b8eFkxOTM9",
+      "COURSE-1788677888": {
+        "-1004461840064": "https://t.me/+s82D_-2RCTczOWQ1"
+      }
+    },
+    "banned": false,
+    "ban_reason": ""
+  },
+  "7831629041": {
+    "user_id": 7831629041,
+    "username": "CODINGJAMES_X",
+    "full_name": "⟦𝗖𝗢𝗗𝗜𝗡𝗚_𝗝𝗔𝗠𝗘𝗦⟧",
+    "purchased_courses": [],
+    "purchased_ebooks": [],
+    "balance": 0,
+    "earnings_enabled": false,
+    "earnings_history": [],
+    "referral_count": 0,
+    "referred_users": [],
+    "referred_by": null,
+    "referral_reward_claimed": false,
+    "joined_date": "2026-09-01 22:41:03.918115"
+  },
+  "7135525721": {
+    "user_id": 7135525721,
+    "username": "salman2ss",
+    "full_name": "Salman",
+    "purchased_courses": [],
+    "purchased_ebooks": [],
+    "balance": 0,
+    "earnings_enabled": false,
+    "earnings_history": [],
+    "referral_count": 0,
+    "referred_users": [],
+    "referred_by": 8319458917,
+    "referral_reward_claimed": true,
+    "joined_date": "2026-09-02 00:38:21.323168",
+    "banned": false,
+    "ban_reason": ""
+  },
+  "7192726551": {
+    "user_id": 7192726551,
+    "username": "bdwin00",
+    "full_name": "DK WIN BD",
+    "purchased_courses": [
+      "COURSE-1788192212",
+      "COURSE-1788442349",
+      "COURSE-1788520310",
+      "COURSE-1788677888",
+      "COURSE-1788676244"
+    ],
+    "purchased_ebooks": [
+      "EB-1788840900"
+    ],
+    "balance": 350,
+    "earnings_enabled": true,
+    "earnings_history": [],
+    "referral_count": 0,
+    "referred_users": [],
+    "referred_by": 1852477596,
+    "referral_reward_claimed": true,
+    "joined_date": "2026-09-03 12:22:24.589176",
+    "access_links": {
+      "COURSE-1788442349": "https://t.me/+wyOsv-Hq4Ls3Nzhl",
+      "COURSE-1788520310": "https://t.me/+Wj7ihUkcbu1kMTg1",
+      "COURSE-1788677888": {
+        "-1004461840064": "https://t.me/+qy6_c9z8yJNlMjJl"
+      },
+      "COURSE-1788676244": {
+        "-1003900634402": "https://t.me/+OAQ22mbxjcFhNmE1"
+      }
+    },
+    "banned": false,
+    "ban_reason": ""
+  },
+  "8146065142": {
+    "user_id": 8146065142,
+    "username": "HackerMeta",
+    "full_name": "Dark_Z @",
+    "purchased_courses": [],
+    "purchased_ebooks": [],
+    "balance": 0,
+    "earnings_enabled": false,
+    "earnings_history": [],
+    "referral_count": 0,
+    "referred_users": [],
+    "referred_by": null,
+    "referral_reward_claimed": false,
+    "joined_date": "2026-09-06 18:02:02.440499",
+    "banned": false,
+    "ban_reason": ""
+  },
+  "8598895947": {
+    "user_id": 8598895947,
+    "username": "",
+    "full_name": "❤️Sk Farhan❤️",
+    "purchased_courses": [
+      "COURSE-1788677791",
+      "COURSE-1788678471",
+      "COURSE-1788677960"
+    ],
+    "purchased_ebooks": [],
+    "balance": 0,
+    "earnings_enabled": false,
+    "banned": false,
+    "ban_reason": "",
+    "earnings_history": [],
+    "referral_count": 0,
+    "referred_users": [],
+    "referred_by": 8319458917,
+    "referral_reward_claimed": true,
+    "joined_date": "2026-09-07 14:41:24.763017",
+    "access_links": {
+      "COURSE-1788677960": {
+        "-1004461840064": "https://t.me/+Ja8ApFkr1HpjNWM1"
+      },
+      "COURSE-1788677791": {
+        "-1004461840064": "https://t.me/+6G-IcGewzPQ5ZWU9"
+      },
+      "COURSE-1788678471": {
+        "-1004461840064": "https://t.me/+jqkrHnWDmRdjNGI1"
+      }
+    }
+  }
+}

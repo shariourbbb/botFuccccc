@@ -1,0 +1,14 @@
+import * as h from './helpers.js';
+const a = [];
+console.log('helpers OK');
+console.log(h.pySlice('hello', 1, 3), h.pySub([1, 2, 3], -1));
+console.log(h.pyGet({ a: 0 }, 'a', 'D'), h.pyGet({}, 'a', 'D'));
+console.log(h.pyContains('abc', 'b'), h.pyT([]), h.pyT({}), h.pyT(0), h.pyT('x'));
+console.log(h.pyEq(1, true), h.pyMod(-3, 2), h.pyDiv(-3, 2), h.pyInt(' 42 '));
+console.log(h.pyRound(2.5), h.pyRound(3.5), h.pyTitle('hSC 28 batch'));
+console.log(JSON.stringify(h.pyPartition('a_b', '_')), JSON.stringify(h.pySplit(' a  b ')));
+console.log(h.pyZfill('-7', 3), h.pyHtmlEscape('<a "x">'), h.pyIsDigit('007'));
+console.log(h.pySha256('x').slice(0, 12));
+console.log(h.pyFormatDt(new Date(2024, 0, 5, 13, 4, 0), '%Y-%m-%d %I:%M %p'));
+console.log(h.pyReplace('a-b-c', '-', '+', 1), h.pyRepeat('ab', 3), h.pyPow(2, 10));
+console.log(JSON.stringify(h.pyStr(null)), JSON.stringify(h.pyStr(true)), h.pyStr(5));

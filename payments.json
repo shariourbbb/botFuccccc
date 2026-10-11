@@ -1,0 +1,23 @@
+{
+  "methods": {
+    "bkash": {
+      "name": "bKash",
+      "number": "017123456",
+      "instruction": "bKash App ওপেন করুন অথবা *247# ডায়াল করুন।\n\n2️⃣ Send Money / Cash In সিলেক্ট করে উপরের নম্বরে নির্ধারিত পরিমাণ টাকা পাঠান।\n\n3️⃣ TrxID টি কপি করে এখানে পাঠান।",
+      "status": "active"
+    },
+    "nagad": {
+      "name": "Nagad",
+      "number": "01110214",
+      "instruction": "App ওপেন করুন অথবা *167# ডায়াল করুন।\n\n2️⃣ Send Money সিলেক্ট করে উপরের নম্বরে নির্ধারিত পরিমাণ টাকা পাঠান।\n\n3️⃣ TrxID টি কপি করে এখানে পাঠান",
+      "status": "active"
+    },
+    "rocket": {
+      "name": "Rocket",
+      "number": "01XXXXXXXXX",
+      "instruction": "Personal (Send Money)",
+      "status": "inactive"
+    }
+  },
+  "note": "payment verify"
+}

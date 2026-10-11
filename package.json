@@ -1,0 +1,17 @@
+{
+  "name": "studymart-bot-node",
+  "version": "1.0.0",
+  "description": "StudyMart Telegram course-selling bot (Node.js port of the Python bot) — same logic, same UI, same structure.",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js",
+    "check": "node check.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "grammy": "^1.46.0"
+  }
+}

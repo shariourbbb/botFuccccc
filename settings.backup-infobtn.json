@@ -1,0 +1,263 @@
+{
+  "maintenance_mode": false,
+  "maintenance_message": "bot off monday",
+  "delivery_message": "🎉 **Your Course Purchase was Successful!**\n━━━━━━━━━━━━━━━━━━━━\n\n📦 **Order ID:** `{order_id}`\n**Course:** {course_name}\n💰 **Amount:** {amount} ৳\n\n✅ **Payment completed successfully.**\n\n👇 Click the button below to join your course:\n{access_text}",
+  "fallback_message": "🔍 **'{query}' সম্পর্কিত কোনো কোর্স বা ই-বুক খুঁজে পাওয়া যায়নি।**\n\n💡 আপনি চাইলে সরাসরি নিচের বাটন থেকে সকল ক্যাটাগরি ও ক্লাস ব্রাউজ করতে পারেন:",
+  "bot_description": "🎓 StudyMart-এ আপনাকে স্বাগতম!\n\nআপনার বিশ্বস্ত অটোমেটেড কোর্স প্ল্যাটফর্ম।\n\n📖 SSC • 📚 HSC • 🎯 Admission • 💼 Skills\n\n💳 নিরাপদ পেমেন্ট\n⚡ তাত্ক্ষণিক কোর্স অ্যাক্সেস\n🤖 সম্পূর্ণ অটোমেটেড",
+  "home_keyboard_grid": [
+    [
+      {
+        "text": "📚 Browse Courses",
+        "action": "browse_categories",
+        "enabled": true
+      },
+      {
+        "text": "📖 Browse E-Book",
+        "action": "browse_ebooks",
+        "enabled": true
+      }
+    ],
+    [
+      {
+        "text": "🎓 My Courses",
+        "action": "my_courses_nav",
+        "enabled": false
+      },
+      {
+        "text": "📃 My E-Books",
+        "action": "my_ebooks_nav",
+        "enabled": false
+      },
+      {
+        "text": "💳 How To Buy",
+        "action": "https://t.me/paid_course_hsc/1129",
+        "enabled": true
+      },
+      {
+        "text": "📞Contact Admin",
+        "action": "https://t.me/helpline3012_bot",
+        "enabled": true
+      }
+    ],
+    [
+      {
+        "text": "💬 Support",
+        "action": "https://t.me/StudyMartAdmin",
+        "enabled": false
+      }
+    ]
+  ],
+  "delivery_free_with_link": "🎉 **Your Course Access is Confirmed!**\n\n**Course:** {course_name}\n\n👇 Click the button below to join your course:",
+  "delivery_paid_with_link": "🎉 **Your Course Purchase was Successful!**\n\n**Course:** {course_name}\n**Order ID:** `{order_id}`\n\n✅ **Payment completed successfully.**\n\n👇 Click the button below to join your course:",
+  "delivery_paid_no_link": "🎉 **Your Course Purchase was Successful!**\n\n**Course:** {course_name}\n**Order ID:** `{order_id}`\n\n✅ **Payment completed successfully.**\n\n⚠️ Join link is currently not available. Please contact support: @helpline3012_bot",
+  "inactive_categories": [
+    "TEST_CAT_XYZ > TEST_SUB_123"
+  ],
+  "inactive_ebook_categories": [
+    "TEST_EBOOK_CAT"
+  ],
+  "show_view_all_courses": false,
+  "show_home_button": false,
+  "referral_bonus_amount": 20,
+  "referral_system_enabled": true,
+  "inline_buttons_config": {
+    "master_enabled": true,
+    "section_status": {
+      "home": true,
+      "categories": true,
+      "ebooks": true,
+      "support": false,
+      "delivery": true,
+      "profile": true,
+      "global": true
+    },
+    "buttons": [
+      {
+        "id": "ibtn_home_0_0",
+        "text": "📚 Browse Courses",
+        "action": "browse_categories",
+        "target": "home",
+        "enabled": true,
+        "row": 0,
+        "col": 0
+      },
+      {
+        "id": "ibtn_home_0_1",
+        "text": "📖 Browse E-Book",
+        "action": "browse_ebooks",
+        "target": "home",
+        "enabled": true,
+        "row": 0,
+        "col": 1
+      },
+      {
+        "id": "ibtn_home_1_0",
+        "text": "🎓 My Courses",
+        "action": "my_courses_nav",
+        "target": "home",
+        "enabled": false,
+        "row": 1,
+        "col": 0
+      },
+      {
+        "id": "ibtn_home_1_1",
+        "text": "📃 My E-Books",
+        "action": "my_ebooks_nav",
+        "target": "home",
+        "enabled": false,
+        "row": 1,
+        "col": 1
+      },
+      {
+        "id": "ibtn_home_1_2",
+        "text": "💳 How To Buy",
+        "action": "https://t.me/paid_course_hsc/1129",
+        "target": "home",
+        "enabled": true,
+        "row": 2,
+        "col": 0
+      },
+      {
+        "id": "ibtn_home_1_3",
+        "text": "📞Contact Admin",
+        "action": "https://t.me/helpline3012_bot",
+        "target": "home",
+        "enabled": true,
+        "row": 2,
+        "col": 1
+      },
+      {
+        "id": "ibtn_home_2_0",
+        "text": "💬 Support",
+        "action": "https://t.me/StudyMartAdmin",
+        "target": "home",
+        "enabled": false,
+        "row": 3,
+        "col": 0
+      },
+      {
+        "id": "ibtn_1788340068386_7",
+        "text": "DJ Kasem",
+        "action": "https://example.com",
+        "target": "profile",
+        "enabled": true,
+        "row": 0,
+        "col": 0
+      }
+    ]
+  },
+  "info_menu_settings": {
+    "header_text": "Help🤠",
+    "items": {
+      "contact": {
+        "label": "💬 Contact Support",
+        "enabled": true,
+        "type": "contact",
+        "content": "োনো কোর্স সংক্রান্ত তথ্য, পেমেন্ট হেল্প বা সমস্যার জন্য আমাদের সাপোর্ট টিমের সাথে যোগাযোগ করুন:",
+        "media_type": "animation",
+        "media_file_id": "CgACAgUAAxkBAAIuKGqdHWkrvY32t3MyBVMSwjNc0B0bAAJVHwACKxroVKAwC8H1eiTxPQQ",
+        "header": "skip"
+      },
+      "how_to_buy": {
+        "label": "📖 How to Buy",
+        "enabled": false,
+        "type": "text",
+        "content": ""
+      },
+      "about": {
+        "label": "🎓 About StudyMart",
+        "enabled": false,
+        "type": "text",
+        "content": "",
+        "header": "H",
+        "media_type": "none",
+        "media_file_id": ""
+      },
+      "terms": {
+        "label": "📜 Terms & Policy",
+        "enabled": false,
+        "type": "text",
+        "content": "About"
+      }
+    },
+    "custom_buttons": [
+      {
+        "id": "cinfo_1_1788682115",
+        "label": "About",
+        "type": "url",
+        "content": "https://t.me/...\nbcbvcb",
+        "header": "",
+        "media_type": "none",
+        "media_file_id": "",
+        "enabled": true
+      },
+      {
+        "id": "cinfo_2_1788682183",
+        "label": "ট্টট",
+        "type": "text",
+        "content": "গের জন্য গুরুত্বপূর্ণ অধ্যায়, পরীক্ষা উপযোগী কনসেপ্ট এবং কার্যকর রিভিশনের মাধ্যমে গুছিয়ে নিন পুরো সিলেবাস।",
+        "header": "ghcvbbbbbbb\n\n\n\n\n\nbvcn",
+        "media_type": "animation",
+        "media_file_id": "CgACAgIAAxkBAAIuSmqdH1-4E-Awzlwt__eXHgksWxP3AAKtDgACHkxJSEbfTldzNl1ePQQ",
+        "enabled": true
+      },
+      {
+        "id": "cinfo_3_1788682311",
+        "label": "my",
+        "type": "url",
+        "content": "https://t.me/...",
+        "header": "iiiiiiiiiiiiiiiiiiiiiiiiiiiii",
+        "media_type": "animation",
+        "media_file_id": "CgACAgQAAxkBAAIuaGqdIEVvZeidhh7ra7-HQ63hfP_nAALdCwAC5RlRUILV4HUOHFfrPQQ",
+        "enabled": true
+      },
+      {
+        "id": "cinfo_4_1788684115",
+        "label": "📢 Join Channel",
+        "type": "url",
+        "content": "https://t.me/StalkXD",
+        "header": "Please 📢 Join Channel",
+        "media_type": "animation",
+        "media_file_id": "CgACAgUAAxkBAAIusmqdJ1NPdwQpbGqV-cLEMn73DestAAKqHwACKxroVJgQrJT1Xlp2PQQ",
+        "enabled": true
+      }
+    ],
+    "header_media_type": "animation",
+    "header_media_file_id": "CgACAgUAAxkBAAIlgGqbrGEh50KmqXg7PZutBWaWw_LeAAIYIwACsgZpVAcwDtKppi80PQQ"
+  },
+  "info_message": "ডজ",
+  "subcategory_buttons_per_row": 1,
+  "category_buttons_per_row": 1,
+  "welcome_media_type": "animation",
+  "welcome_media_file_id": "CgACAgUAAxkBAAIjwWqbGq896usF_DbJ8x9T4teV9OsaAAINLQACFE3ZVMBfVqEF3w99PQQ",
+  "welcome_message": "",
+  "folder_headers": {
+    "SSC": {
+      "text": "Select your Academic Batch 👇",
+      "media_type": "none",
+      "media_file_id": ""
+    },
+    "📚 HSC 28": {
+      "media_type": "animation",
+      "media_file_id": "CgACAgUAAxkBAAInj2qb3YSEkGY3fzmFE7aAdrHHs2ARAALEIwAC0v9xVKR2Fafq3OX9PQQ",
+      "text": "HSC 28\n\nSelect Your Program 👇"
+    },
+    "📚 HSC 28 > 🎓 Academy Program": {
+      "text": "Select your platform 👇",
+      "media_type": "animation",
+      "media_file_id": "CgACAgUAAxkBAAInj2qb3YSEkGY3fzmFE7aAdrHHs2ARAALEIwAC0v9xVKR2Fafq3OX9PQQ"
+    },
+    "📚 HSC 27": {
+      "text": "Select Your Program 👇",
+      "media_type": "animation",
+      "media_file_id": "CgACAgUAAxkBAAIn82qb36LXP6hU8KlwsGyGhmCuJ1uAAAIyHwACvC_hVIT-OT8lja87PQQ"
+    },
+    "📚 HSC 27 > Academy": {
+      "media_type": "animation",
+      "media_file_id": "CgACAgUAAxkBAAInj2qb3YSEkGY3fzmFE7aAdrHHs2ARAALEIwAC0v9xVKR2Fafq3OX9PQQ",
+      "text": "Select your group"
+    }
+  },
+  "min_withdraw_amount": 500,
+  "support_message": "োনো কোর্স সংক্রান্ত তথ্য, পেমেন্ট হেল্প বা সমস্যার জন্য আমাদের সাপোর্ট টিমের সাথে যোগাযোগ করুন:"
+}

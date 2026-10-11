@@ -1,0 +1,31 @@
+{
+  "📚 SSC": [
+    "SSC 27"
+  ],
+  "📚 HSC 27": [
+    "🎓 Academy Program",
+    "📝 Revision Program",
+    "🎯 Admission Program"
+  ],
+  "📚 SSC > SSC 27": [],
+  "📚 HSC 27 > 📝 Revision Program": [],
+  "📚 HSC 27 > 🎓 Academy Program": [],
+  "📚 HSC 27 > 🎯 Admission Program": [],
+  "📚 HSC 28": [
+    "🎓 Academy Program",
+    "📝 Revision Program",
+    "🎯 Admission Program",
+    "📚 SSC"
+  ],
+  "📚 HSC 28 > 🎓 Academy Program": [],
+  "📚 HSC 28 > 📝 Revision Program": [],
+  "📚 HSC 28 > 🎯 Admission Program": [],
+  "🆓FREE COURSE": [
+    "HSC 27"
+  ],
+  "🆓FREE COURSE > HSC 27": [],
+  "📚 HSC 28 > 📚 SSC": [
+    "SSC 27"
+  ],
+  "📚 HSC 28 > 📚 SSC > SSC 27": []
+}

@@ -1,0 +1,314 @@
+{
+  "maintenance_mode": false,
+  "maintenance_message": "bot off monday",
+  "delivery_message": "🎉 **Your Course Purchase was Successful!**\n━━━━━━━━━━━━━━━━━━━━\n\n📦 **Order ID:** `{order_id}`\n**Course:** {course_name}\n💰 **Amount:** {amount} ৳\n\n✅ **Payment completed successfully.**\n\n👇 Click the button below to join your course:\n{access_text}",
+  "bot_description": "🎓 StudyMart-এ আপনাকে স্বাগতম!\n\nআপনার বিশ্বস্ত অটোমেটেড কোর্স প্ল্যাটফর্ম।\n\n📖 SSC • 📚 HSC • 🎯 Admission • 💼 Skills\n\n💳 নিরাপদ পেমেন্ট\n⚡ তাত্ক্ষণিক কোর্স অ্যাক্সেস\n🤖 সম্পূর্ণ অটোমেটেড",
+  "home_keyboard_grid": [
+    [
+      {
+        "text": "📚 Browse Courses",
+        "action": "browse_categories",
+        "enabled": true
+      },
+      {
+        "text": "📖 Browse E-Book",
+        "action": "browse_ebooks",
+        "enabled": true
+      }
+    ],
+    [
+      {
+        "text": "🎓 My Courses",
+        "action": "my_courses_nav",
+        "enabled": false
+      },
+      {
+        "text": "📃 My E-Books",
+        "action": "my_ebooks_nav",
+        "enabled": false
+      },
+      {
+        "text": "💳 How To Buy",
+        "action": "https://t.me/paid_course_hsc/1129",
+        "enabled": true
+      },
+      {
+        "text": "📞Contact Admin",
+        "action": "https://t.me/helpline3012_bot",
+        "enabled": true
+      }
+    ],
+    [
+      {
+        "text": "💬 Support",
+        "action": "https://t.me/StudyMartAdmin",
+        "enabled": false
+      }
+    ]
+  ],
+  "inactive_categories": [
+    "TEST_CAT_XYZ > TEST_SUB_123",
+    "B",
+    "🆓FREE COURSE"
+  ],
+  "inactive_ebook_categories": [
+    "TEST_EBOOK_CAT",
+    "🌱 Lifestyle",
+    "🧠 Self Development"
+  ],
+  "show_view_all_courses": false,
+  "show_home_button": false,
+  "referral_bonus_amount": 20,
+  "referral_system_enabled": true,
+  "inline_buttons_config": {
+    "master_enabled": true,
+    "section_status": {
+      "home": true,
+      "categories": true,
+      "ebooks": true,
+      "support": false,
+      "delivery": true,
+      "profile": true,
+      "global": true
+    },
+    "buttons": [
+      {
+        "id": "ibtn_1788340068386_7",
+        "text": "DJ Kasem",
+        "action": "https://example.com",
+        "target": "profile",
+        "enabled": true,
+        "row": 0,
+        "col": 0
+      }
+    ]
+  },
+  "info_menu_settings": {
+    "header_text": "ⓘ Info Menu\n\nSelect an option below to learn more:",
+    "items": {
+      "contact": {
+        "label": "💬 Contact Support",
+        "enabled": true,
+        "type": "contact",
+        "content": "nbvngjhk",
+        "media_type": "none",
+        "media_file_id": "",
+        "header": ""
+      },
+      "how_to_buy": {
+        "label": "📖 How to Buy",
+        "enabled": false,
+        "type": "text",
+        "content": ""
+      },
+      "about": {
+        "label": "[object Object]",
+        "enabled": false,
+        "type": "text",
+        "content": "",
+        "header": "H",
+        "media_type": "none",
+        "media_file_id": ""
+      },
+      "terms": {
+        "label": "📜 Terms & Policy",
+        "enabled": false,
+        "type": "text",
+        "content": "About"
+      }
+    },
+    "custom_buttons": [
+      {
+        "id": "cinfo_1_1788952985",
+        "label": "About",
+        "type": "text",
+        "content": "• If you provide a link (e.g. https://t.me/...), it will open as a URL.",
+        "header": "kjggggggggggggggnvbc des",
+        "media_type": "photo",
+        "media_file_id": "AgACAgUAAxkBAAJETGqhQZl_rocgMc8YGYscP_BJkP_4AAKtGWsbHikIVS3oCiAdoVvFAQADAgADeQADPQQ",
+        "enabled": true
+      },
+      {
+        "id": "cinfo_2_1791687135",
+        "label": "About",
+        "type": "text",
+        "content": "GH https://t.me/...",
+        "header": "",
+        "media_type": "photo",
+        "media_file_id": "AgACAgUAAxkBAAJI_2rK-d48-a2p8sv6XhTe3d3bkZ3_AAK_E2sbtXxYVjLhBwAB-oCGFwEAAwIAA3kAAz0E",
+        "enabled": true
+      }
+    ],
+    "header_media_type": "animation",
+    "header_media_file_id": "CgACAgUAAxkBAAIlgGqbrGEh50KmqXg7PZutBWaWw_LeAAIYIwACsgZpVAcwDtKppi80PQQ"
+  },
+  "info_message": "ⓘ Info Menu\n\nSelect an option below to learn more:",
+  "subcategory_buttons_per_row": 1,
+  "category_buttons_per_row": 1,
+  "welcome_media_type": "animation",
+  "welcome_media_file_id": "CgACAgUAAxkBAAIjwWqbGq896usF_DbJ8x9T4teV9OsaAAINLQACFE3ZVMBfVqEF3w99PQQ",
+  "welcome_message": "",
+  "folder_headers": {
+    "SSC": {
+      "text": "Select your Academic Batch 👇",
+      "media_type": "none",
+      "media_file_id": ""
+    },
+    "📚 HSC 28": {
+      "media_type": "animation",
+      "media_file_id": "CgACAgUAAxkBAAInj2qb3YSEkGY3fzmFE7aAdrHHs2ARAALEIwAC0v9xVKR2Fafq3OX9PQQ",
+      "text": "HSC 28\n\nSelect Your Program 👇"
+    },
+    "📚 HSC 28 > 🎓 Academy Program": {
+      "text": "Select your platform 👇",
+      "media_type": "animation",
+      "media_file_id": "CgACAgUAAxkBAAInj2qb3YSEkGY3fzmFE7aAdrHHs2ARAALEIwAC0v9xVKR2Fafq3OX9PQQ"
+    },
+    "📚 HSC 27": {
+      "text": "Select Your Program 👇",
+      "media_type": "animation",
+      "media_file_id": "CgACAgUAAxkBAAIn82qb36LXP6hU8KlwsGyGhmCuJ1uAAAIyHwACvC_hVIT-OT8lja87PQQ"
+    },
+    "📚 HSC 27 > Academy": {
+      "media_type": "animation",
+      "media_file_id": "CgACAgUAAxkBAAInj2qb3YSEkGY3fzmFE7aAdrHHs2ARAALEIwAC0v9xVKR2Fafq3OX9PQQ",
+      "text": "Select your group"
+    },
+    "A": {
+      "text": "Header Text",
+      "media_type": "animation",
+      "media_file_id": "CgACAgUAAxkBAAI4HWqejNTk3-__QY6Rft5AP4vUglhYAAKZIAACDxj5VJ7r77bCciEjPQQ"
+    }
+  },
+  "min_withdraw_amount": 50,
+  "button_color_rules": [
+    {
+      "id": "seed_approve",
+      "name": "Approve → Green",
+      "ctype": "callback_prefix",
+      "pattern": "approve_",
+      "style": "success"
+    },
+    {
+      "id": "seed_reject",
+      "name": "Reject → Red",
+      "ctype": "callback_prefix",
+      "pattern": "reject_",
+      "style": "danger"
+    },
+    {
+      "id": "seed_del",
+      "name": "Delete* → Red",
+      "ctype": "callback_prefix",
+      "pattern": "adm_del",
+      "style": "danger"
+    }
+  ],
+  "button_color_groups": {
+    "payment": "none",
+    "buynow": "success",
+    "nav": "none",
+    "browse": "none",
+    "back": "none",
+    "approve": "success",
+    "pagination": "none",
+    "paymethods": "primary",
+    "danger": "none",
+    "ebooks": "success"
+  },
+  "category_colors": {
+    "B": "danger",
+    "📚 SSC": "primary",
+    "📚 HSC 27": "success",
+    "📚 HSC 28": "primary"
+  },
+  "support_message": "nbvngjhk",
+  "fallback_message": "🔍 **No courses or e-books found for '{query}'.**",
+  "ebook_folder_headers": {
+    "🧰Job": {
+      "media_type": "animation",
+      "media_file_id": "CgACAgUAAxkBAAIykmqdsYeXBPFyyHVat4mO3wGZM6Q_AAJAIgADBslX2U6qI2gj1s09BA",
+      "text": "Job preparetion"
+    },
+    "General": {
+      "text": "select your book",
+      "media_type": "animation",
+      "media_file_id": "CgACAgUAAxkBAAIypWqdssYq1FCegbGRBkfAvbBcsROlAAIXIQACRGnIV_3ZigM6qCxWPQQ"
+    },
+    "Job": {
+      "text": "My Job Header",
+      "media_type": "photo",
+      "media_file_id": "FID_X"
+    }
+  },
+  "ebook_library_media_type": "animation",
+  "ebook_library_media_file_id": "CgACAgQAAxkBAAI2ZWqeXGauwFIjrK-L4rM_71ymosafAAIBCgACDcrFUDI47nqpumqgPQQ",
+  "ebook_library_header_text": "Select Your eBook Category",
+  "cart_media_type": "none",
+  "cart_media_file_id": "",
+  "category_library_header_text": "Select your course category",
+  "category_library_media_type": "animation",
+  "category_library_media_file_id": "CgACAgUAAxkBAAInj2qb3YSEkGY3fzmFE7aAdrHHs2ARAALEIwAC0v9xVKR2Fafq3OX9PQQ",
+  "custom_button_colors": [
+    {
+      "name": "ℹ️ Info",
+      "style": "success"
+    },
+    {
+      "name": "group 3",
+      "style": "success"
+    },
+    {
+      "name": "group 2",
+      "style": "success"
+    },
+    {
+      "name": "Download (PDF)",
+      "style": "success"
+    },
+    {
+      "name": "free enroll",
+      "style": "success"
+    },
+    {
+      "name": "group 1",
+      "style": "success"
+    },
+    {
+      "name": "go to course",
+      "style": "success"
+    },
+    {
+      "name": "🎯 Admission Program",
+      "style": "primary"
+    },
+    {
+      "name": "💼 Job Preparation",
+      "style": "primary"
+    },
+    {
+      "name": "🌍 History & General Knowledge",
+      "style": "success"
+    },
+    {
+      "name": "🕌 Religion",
+      "style": "primary"
+    },
+    {
+      "name": "🎯 Admission",
+      "style": "success"
+    },
+    {
+      "name": "🎓 Academy",
+      "style": "primary"
+    },
+    {
+      "name": "copy number",
+      "style": "primary"
+    },
+    {
+      "name": "Revision Program",
+      "style": "success"
+    }
+  ]
+}

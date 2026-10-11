@@ -1,0 +1,14 @@
+import * as dbm from './db.js';
+console.log('db import OK:', typeof dbm.Database, typeof dbm.db);
+console.log('perm defs:', Object.keys(dbm.ADMIN_PERMISSION_DEFINITIONS || {}).length);
+console.log('admins:', JSON.stringify(dbm.db.get_admins()));
+console.log('setting probe:', JSON.stringify(dbm.db.get_setting('__nope__', 'MISSING')));
+console.log('stats:', JSON.stringify(dbm.db.get_stats()));
+console.log('courses keys:', Object.keys(dbm.db.get_all_courses()).length);
+console.log('ebooks:', Object.keys(dbm.db.get_all_ebooks()).length);
+console.log('payment methods:', dbm.db.get_payment_methods().length);
+console.log('categories:', JSON.stringify(dbm.db.get_categories()));
+console.log('min withdraw:', dbm.db.get_min_withdraw_amount());
+console.log('cat row size:', dbm.db.get_category_row_size(), 'subrow:', dbm.db.get_subcategory_row_size());
+console.log('paginated users:', JSON.stringify(dbm.db.get_paginated_users(1, 3)).slice(0, 120));
+console.log('DB-SMOKE-DONE');

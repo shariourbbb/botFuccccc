@@ -1,0 +1,57 @@
+{
+  "buttons": [
+    [
+      {
+        "text": "📖 E-BOOK",
+        "action": "browse_ebooks",
+        "style": "primary"
+      },
+      {
+        "text": "🆓FREE COURSE",
+        "action": "cat_🆓FREE COURSE",
+        "admin_only": false
+      }
+    ],
+    [
+      {
+        "text": "📚 SSC",
+        "action": "cat_📚 SSC",
+        "style": "success"
+      },
+      {
+        "text": "📚 HSC 27",
+        "action": "cat_📚 HSC 27",
+        "style": "primary"
+      },
+      {
+        "text": "📚 HSC 28",
+        "action": "cat_📚 HSC 28",
+        "style": "success"
+      }
+    ],
+    [
+      {
+        "text": "🛒 My Cart",
+        "action": "cart",
+        "style": "danger"
+      },
+      {
+        "text": "👤 Profile",
+        "action": "profile",
+        "style": "success"
+      },
+      {
+        "text": "ℹ Info",
+        "action": "info",
+        "style": "primary"
+      }
+    ],
+    [
+      {
+        "text": "⚙ Admin Panel",
+        "action": "admin",
+        "admin_only": true
+      }
+    ]
+  ]
+}

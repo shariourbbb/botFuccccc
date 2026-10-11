@@ -1,0 +1,180 @@
+{
+ "admins": [
+  7610279126,
+  8167080297,
+  7135525721
+ ],
+ "stats": {
+  "total_users": 13,
+  "total_courses": 13,
+  "total_ebooks": 6,
+  "total_orders": 86,
+  "pending_orders": 9,
+  "pending_withdrawals": 0,
+  "total_revenue": 15148,
+  "total_withdrawn": 420
+ },
+ "categories": [
+  "📚 SSC",
+  "📚 HSC 27",
+  "📚 HSC 28",
+  "🆓FREE COURSE"
+ ],
+ "cat_row": 1,
+ "sub_row": 1,
+ "min_wdr": 50,
+ "users_page": [
+  [
+   {
+    "user_id": 8598895947,
+    "username": "",
+    "full_name": "❤️Sk Farhan❤️",
+    "purchased_courses": [
+     "COURSE-1788677791",
+     "COURSE-1788678471",
+     "COURSE-1788677960"
+    ],
+    "purchased_ebooks": [],
+    "balance": 0,
+    "earnings_enabled": false,
+    "banned": false,
+    "ban_reason": "",
+    "earnings_history": [],
+    "referral_count": 0,
+    "referred_users": [],
+    "referred_by": 8319458917,
+    "referral_reward_claimed": true,
+    "joined_date": "2026-09-07 14:41:24.763017",
+    "access_links": {
+     "COURSE-1788677960": {
+      "-1004461840064": "https://t.me/+Ja8ApFkr1HpjNWM1"
+     },
+     "COURSE-1788677791": {
+      "-1004461840064": "https://t.me/+6G-IcGewzPQ5ZWU9"
+     },
+     "COURSE-1788678471": {
+      "-1004461840064": "https://t.me/+jqkrHnWDmRdjNGI1"
+     }
+    }
+   },
+   {
+    "user_id": 8146065142,
+    "username": "HackerMeta",
+    "full_name": "Dark_Z @",
+    "purchased_courses": [],
+    "purchased_ebooks": [],
+    "balance": 0,
+    "earnings_enabled": false,
+    "earnings_history": [],
+    "referral_count": 0,
+    "referred_users": [],
+    "referred_by": null,
+    "referral_reward_claimed": false,
+    "joined_date": "2026-09-06 18:02:02.440499",
+    "banned": false,
+    "ban_reason": ""
+   }
+  ],
+  7
+ ],
+ "courses": [
+  "COURSE-1788676244",
+  "COURSE-1788676499",
+  "COURSE-1788677506",
+  "COURSE-1788677960",
+  "COURSE-1788677791",
+  "COURSE-1788678471",
+  "COURSE-1788677888",
+  "COURSE-1788721359",
+  "COURSE-1788721400",
+  "COURSE-1788721468",
+  "COURSE-1788721514",
+  "COURSE-1788738571",
+  "COURSE-1788859123"
+ ],
+ "ebooks": [
+  "EB-1788800681",
+  "EB-1788800893",
+  "EB-1788840900",
+  "EB-1788841110",
+  "EB-1788858237",
+  "EB-1788935810"
+ ],
+ "subcats_ssc": [
+  "SSC 27"
+ ],
+ "courses_by_cat": [],
+ "coupons": [
+  "IN10",
+  "D10"
+ ],
+ "pending_orders": 9,
+ "pending_wdr": 0,
+ "payment_note": "payment verify",
+ "referral_enabled": true,
+ "reward": 20,
+ "home_btn": false,
+ "view_all": false,
+ "categories_tree": [
+  "📚 SSC",
+  "📚 HSC 27",
+  "📚 HSC 28",
+  "🆓FREE COURSE"
+ ],
+ "settings_keys": [
+  "bot_description",
+  "button_color_groups",
+  "button_color_rules",
+  "cart_media_file_id",
+  "cart_media_type",
+  "category_buttons_per_row",
+  "category_colors",
+  "category_library_header_text",
+  "category_library_media_file_id",
+  "category_library_media_type",
+  "custom_button_colors",
+  "delivery_message",
+  "ebook_folder_headers",
+  "ebook_library_header_text",
+  "ebook_library_media_file_id",
+  "ebook_library_media_type",
+  "fallback_message",
+  "folder_headers",
+  "home_keyboard_grid",
+  "inactive_categories",
+  "inactive_ebook_categories",
+  "info_menu_settings",
+  "info_message",
+  "inline_buttons_config",
+  "maintenance_message",
+  "maintenance_mode",
+  "min_withdraw_amount",
+  "referral_bonus_amount",
+  "referral_system_enabled",
+  "show_home_button",
+  "show_view_all_courses",
+  "subcategory_buttons_per_row",
+  "support_message",
+  "welcome_media_file_id",
+  "welcome_media_type",
+  "welcome_message"
+ ],
+ "kb": [
+  "buttons"
+ ],
+ "perm_defs": [
+  "course_manage",
+  "category_manage",
+  "orders",
+  "coupon",
+  "payment_settings",
+  "user_manage",
+  "broadcast",
+  "admin_manage",
+  "statistics",
+  "bot_settings",
+  "admin_permission",
+  "info_manage",
+  "ebook_manage"
+ ]
+}
